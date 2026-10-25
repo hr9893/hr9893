@@ -2,6 +2,28 @@
   <img src="https://raw.githubusercontent.com/hr9893/Ashutosh_Swami_portfolio/main/public/ashutosh_banner.png" alt="Banner" width="100%">
 </p>
 
+## ⌨️ What I Do
+
+- Develop LLM-powered systems: RAG pipelines, Agentic Systems, evaluation frameworks
+- Translate research ideas into clean, production-level code
+
 <p align="center">
   <img src="https://camo.githubusercontent.com/8e88c1aeb4dff20f8f4b36ef4dcd9e0dd82e8145c9ab293ff3ee2875ca6c3622/68747470733a2f2f676f2d736b696c6c2d69636f6e732e76657263656c2e6170702f6170692f69636f6e733f693d707974686f6e2c632c676f2c6e756d70792c7363696b69746c6561726e2c73636970792c7079746f7263682c6f70656e63762c666173746170692c68756767696e67666163652c6c616e67636861696e2c61676e6f2c6372657761692c636861746770742c6f6c6c616d612c67726f712c6b61666b612c72656469732c616972666c6f772c646f636b65722c6177732c6c696e75782c716472616e742c656c61737469637365617263682c6d6c666c6f772c63656c6572792c73747265616d6c69742c737761676765722c637564612c676f6f676c65636f6c6162267469746c65733d74727565" alt="Banner" width="100%">
+</p>
+
+## 📝 Philosophy
+
+- Systems over demos
+- Fundamentals over frameworks
+- If I cannot build it, I do not understand it
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashutosh-swami-b46202207/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ashutoshswami9893@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
